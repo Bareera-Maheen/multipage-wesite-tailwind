@@ -102,7 +102,7 @@ const Products = () => {
           <div className="flex gap-1 space-x-4 ">
             <div className="p-6 transition-transform transform bg-white rounded-lg shadow-md hover:scale-105 w-60">
             <img src="/picturesss/s6.jpeg"  />
-            <h2 className="mb-10 text-4xl font-bold text-center">MIX + PIZZA</h2>
+            <h2 className="mb-10 text-4xl font-bold text-center">MIX  PIZZA</h2>
               <p className="text-gray-600"><del>2000 </del> <em>Rs</em>  <b>1750</b></p>
               <br />
               <button  id="j" className="px-4 py-2 text-white transition bg-blue-600 rounded hover:bg-blue-700"><Link href="/order" className="text-black-700 hover:text-blue-900">Order Now</Link></button>
@@ -141,7 +141,7 @@ const Products = () => {
             <div className="flex gap-1 space-x-4 ">
               <div className="p-6 transition-transform transform bg-white rounded-lg shadow-md hover:scale-105 w-60">
               <img src="/picturesss/s8.jpeg"   />
-              <h2 className="mb-10 text-4xl font-bold text-center">FRIES+ BOTTIES</h2>
+              <h2 className="mb-10 text-4xl font-bold text-center">FRIES BOTTIES</h2>
                 <p className="text-gray-600"> <del>2000 </del> <em>Rs</em>  <b>1750</b></p>
                 <br />
                 <br />
