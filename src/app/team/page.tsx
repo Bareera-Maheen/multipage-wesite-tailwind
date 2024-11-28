@@ -9,7 +9,7 @@ const Team = () => {
           <br /><br /><br />
         <div className="p-6 transition-transform transform bg-white rounded-lg shadow-md hover:scale-105 w-60">
           <img src="/picturesss/m4.webp"  />
-            <h3 className="text-xl font-semibold">RESTAURANT'S OWNER</h3>
+            <h3 className="text-xl font-semibold">RESTAURANT OWNER</h3>
             <p className="text-gray-600">Role: ALL RIDER</p>
             
           </div>
@@ -17,21 +17,21 @@ const Team = () => {
           <div className="p-6 transition-transform transform bg-white rounded-lg shadow-md hover:scale-105 w-60">
           <img src="/picturesss/m1.webp"  />
             <h3 className="text-xl font-semibold">RIGHT HAND</h3>
-            <p className="text-gray-600">Role: chef's manager</p>
+            <p className="text-gray-600">Role: chef manager</p>
             
           </div>
           <br />
           <div className="p-6 transition-transform transform bg-white rounded-lg shadow-md hover:scale-105 w-60">
           <img src="/picturesss/m2.webp"  />
             <h3 className="text-xl font-semibold">ASSISTANT</h3>
-            <p className="text-gray-600">Role: counter's manager</p>
+            <p className="text-gray-600">Role: counter manager</p>
             
           </div>
           
            <div className="p-6 transition-transform transform bg-white rounded-lg shadow-md hover:scale-105 w-60">
           <img src="/picturesss/m3.webp"  />
             <h3 className="text-xl font-semibold">LEFT HAND</h3>
-            <p className="text-gray-600">Role: servings's manager</p>
+            <p className="text-gray-600">Role: servings manager</p>
             
           </div>
          
